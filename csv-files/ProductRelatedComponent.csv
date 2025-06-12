@@ -1,0 +1,10 @@
+Name,ChildName,Role,ProductComponentGroupName,Quantity
+Digital Bundle,Digital Banner,Bundle,Digital Banner,1
+Digital Bundle,Digital Video,Bundle,Digital Video,1
+Digital Bundle,Digital Video HD,Bundle,Digital Video,1
+Digital Bundle Static,Digital Video Static,Bundle,Video,1
+Digital Bundle Static,Digital Video HD Static,Bundle,Video,1
+Sony Bundle,Sony Banner,Bundle,Sony Banner Group,1
+Sony Bundle,Sony Audio,Bundle,Sony AV Group,1
+Sony Bundle,Sony Video,Bundle,Sony AV Group,1
+Sony Bundle Static,Sony Banner Static,Bundle,,1

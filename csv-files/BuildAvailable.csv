@@ -1,0 +1,8 @@
+CategoryCode,SegmentCode
+GeoTargetingDigital,Country
+GeoTargetingDigital,City
+GeoTargetingDigital,State
+AudienceTargetingDigital,AudienceSegmentDigital
+AudienceTargetingDigital,Gender
+AudienceTargetingDigital,Age
+OSTargetingDigital,OSDigital

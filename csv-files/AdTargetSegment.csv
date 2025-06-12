@@ -1,0 +1,8 @@
+Code,DataType,DependentCategorySegmentId,Description,DisplaySequence,DisplayType,IsActive,IsAvailableForSelfService,MediaType,Name,ProductId
+Country,Text,,,1,Checklist,TRUE,TRUE,Digital,Country,
+OSDigital,MultiSelectPicklist,,,1,Checklist,TRUE,TRUE,Digital,Operating Systems,
+State,Text,Country,,2,Checklist,TRUE,TRUE,Digital,State,
+City,Text,State,,3,Checklist,TRUE,TRUE,Digital,City,
+AudienceSegmentDigital,MultiSelectPicklist,,,1,Checklist,TRUE,TRUE,Digital,Audience Segment,
+Gender,Text,,,1,RadioButton,TRUE,TRUE,Digital,Gender,
+Age,MultiSelectPicklist,,,1,Checklist,TRUE,TRUE,Digital,Age,

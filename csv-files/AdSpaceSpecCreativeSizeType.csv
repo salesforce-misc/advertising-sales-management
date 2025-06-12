@@ -1,0 +1,24 @@
+Name,CreativeSizeTypeName,SpaceSpecificationName,isDefault
+Pre-Roll Standard,Pre-Roll Standard,Video Pre Roll,TRUE
+Pre-Roll Desktop,Pre-Roll Desktop,Video Pre Roll,
+Pre-Roll Mobile,Pre-Roll Mobile,Video Pre Roll,
+Post-Roll Standard,Post-Roll Standard,Video Post Roll,
+Post-Roll Desktop,Post-Roll Desktop,Video Post Roll,TRUE
+Post-Roll Mobile,Post-Roll Mobile,Video Post Roll,
+Mid-Roll Standard,Mid-Roll Standard,Video Mid Roll,
+Mid-Roll Desktop,Mid-Roll Desktop,Video Mid Roll,TRUE
+Mid-Roll Mobile,Mid-Roll Mobile,Video Mid Roll,
+Leaderboard Desktop,Leaderboard Desktop,Leaderboard TN_Home_Banner,TRUE
+Leaderboard Mobile,Leaderboard Mobile,Leaderboard TN_Home_Banner,
+Leaderboard Standard,Leaderboard Standard,Leaderboard TN_Home_Banner,
+Skyscraper Wide,Skyscraper Wide,Skyscraper TN_Home_Banner,
+Skyscraper Standard,Skyscraper Standard,Skyscraper TN_Home_Banner,TRUE
+Mid-Roll Desktop,Mid-Roll Desktop,Audio Mid Roll,
+Mid-Roll Mobile,Mid-Roll Mobile,Audio Mid Roll,TRUE
+Mid-Roll Standard,Mid-Roll Standard,Audio Mid Roll,
+Post-Roll Desktop,Post-Roll Desktop,Audio Post Roll,TRUE
+Post-Roll Mobile,Post-Roll Mobile,Audio Post Roll,
+Post-Roll Standard,Post-Roll Standard,Audio Post Roll,
+Pre-Roll Desktop,Pre-Roll Desktop,Audio Pre Roll,
+Pre-Roll Mobile,Pre-Roll Mobile,Audio Pre Roll,
+Pre-Roll Standard,Pre-Roll Standard,Audio Pre Roll,TRUE

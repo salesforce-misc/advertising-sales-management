@@ -1,0 +1,52 @@
+SegmentCode,ServerIdentifier,Label,RefServerIdentifierId
+OSDigital,501013,Android,
+OSDigital,501012,Apple iOS,
+OSDigital,501024,BlackBerry,
+OSDigital,501006,Linux,
+OSDigital,501008,Macintosh,
+AudienceSegmentDigital,7309776394,Married couple with teenage kids,
+AudienceSegmentDigital,7310154375,Married Couples living with parents,
+AudienceSegmentDigital,7309773205,Fitnes enthusiastic Sophomores,
+AudienceSegmentDigital,7310155092,household income > 100k,
+AudienceSegmentDigital,7308667487,household income < 50k,
+Gender,448540089342,All,
+Gender,448540089021,Male,
+Gender,448540089345,Female,
+Age,448540401374,20 & below,
+Age,448539810136,21 to 29,
+Age,448540102512,30 to 39,
+Age,448540102515,40 to 49,
+Age,448540102518,50 to 59,
+Country,2840,United States,
+State,21133,Alabama,2840
+State,21132,Alaska,2840
+State,21136,Arizona,2840
+State,21135,Arkansas,2840
+State,21137,California,2840
+State,21138,Colorado,2840
+State,21139,Connecticut,2840
+State,21141,Delaware,2840
+State,21140,District of Columbia,2840
+State,21142,Florida,2840
+State,21143,Georgia,2840
+State,21144,Hawaii,2840
+State,21146,Idaho,2840
+State,21147,Illinois,2840
+State,21148,Indiana,2840
+State,21145,Iowa,2840
+State,21149,Kansas,2840
+State,21150,Kentucky,2840
+State,21151,Louisiana,2840
+State,21154,Maine,2840
+State,21153,Maryland,2840
+State,21152,Massachusetts,2840
+State,21155,Michigan,2840
+State,21156,Minnesota,2840
+State,21158,Mississippi,2840
+State,21157,Missouri,2840
+State,21159,Montana,2840
+State,21162,Nebraska,2840
+State,21166,Nevada,2840
+State,21163,New Hampshire,2840
+State,21164,New Jersey,2840
+State,21165,New Mexico,2840

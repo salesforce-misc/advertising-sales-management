@@ -1,0 +1,9 @@
+Name,ProductFamily,ClassificationCategoryName,CategoryName,Code
+Digital Video,Digital,Digital Video Classification,Video,AD-DG-VIDEO
+Digital Video HD,Digital,Digital Video Classification,Video,AD-DG-VIDEO-HD
+Digital Video Static,Digital,Digital Video Classification,Video,DG-VID-ST
+Digital Video HD Static,Digital,Digital Video Classification,Video,DG-VID-HST
+Sony Video,Digital,Digital Video Classification,Video,SONY-VIDEO
+Digital Audio,Digital,DG Audio Classification,Audio,AD-DG-AUDIO
+Sony Audio,Digital,DG Audio Classification,Audio,SONY-AUDIO
+Production Charges,Digital,Digital Non Media,Non Media,AD-PRD-CHARGES

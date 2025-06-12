@@ -1,0 +1,4 @@
+Code,Description,DisplaySequence,Id,IsActive,IsAvailableForSelfService,MediaType,Name,ParentAdTargetCategoryId
+GeoTargetingDigital,Targeting based on the location of the audience,2,0QyQY000000004r0AA,TRUE,TRUE,Digital,Geo Targeting,
+AudienceTargetingDigital,,1,0QyQY00000000xh0AA,TRUE,TRUE,Digital,Audience Targeting,
+OSTargetingDigital,,4,0QyQY00000000zJ0AQ,TRUE,TRUE,Digital,OS Targeting,

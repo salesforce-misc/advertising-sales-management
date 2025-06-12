@@ -1,0 +1,14 @@
+Name,ProductFamily,ClassificationCategoryName,ParentName,ChildName,Role,ProductComponentGroupName,Quantity,CategoryName,Code
+Digital Bundle,Digital,,,"Digital Banner,Digital Video,Digital Video HD",Bundle,,1,Bundles,AD-DG-BUNDLE
+Sony Bundle,Digital,,,"Sony Banner,Sony Audio,Sony Video",Bundle,,1,Bundles,SONY-BUNDLE
+Sony Bundle Static,Digital,,,Sony Banner Static,Bundle,,1,Bundles,
+Digital Bundle Static,Digital,,,"Digital Video Static,Digital Video HD Static",Bundle,,1,Bundles,DG-Bundle-Static
+Digital Banner,Digital,Banner Classification,Digital Bundle,,Banner,,1,Banner,AD-DG-BANNER
+Sony Banner Static,Digital,Banner Classification,Sony Bundle Static,,Banner,,1,Banner,
+Sony Banner,Digital,Banner Classification,Sony Bundle,,Banner,,1,Banner,SONY-BANNER-ABC
+,,,Digital Bundle,,,Digital Banner,,,
+,,,Digital Bundle,,,Digital Video,,,
+,,,Digital Bundle Static,,,Video,,,
+,,,Sony Bundle,,,Sony AV Group,,,
+,,,Sony Bundle,,,Sony Banner Group,,,
+,,,Sony Bundle Static,,,Sony Banner Static,,,
