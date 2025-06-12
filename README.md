@@ -1,4 +1,3 @@
-
 # ASM - Seed Data Creation 
 
 ## Product Setup
@@ -34,6 +33,6 @@ This can be deployed from Workbench.
 
 * The above pricing procedure has a reference to lookup table Priority Based Adjustments. If you do not have this in your org, use this zip to deploy the Lookup table and activate. [Priority_based_adj_DM.zip](zip-files/Priority_based_adj_DM.zip)
 
-## Recording for reference: 
+## Recording for reference:
 
-![](recordings/recording-1.mov)
+[▶️ Click here to view the demo video](recordings/recording-1.mov)

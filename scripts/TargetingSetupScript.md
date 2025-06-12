@@ -720,4 +720,5 @@ GenerateTargetingSeedData.processProductTargetingCSV('DefaultTargeting');
 ```
 ### Demo Recording
 
-![](../recordings/recording-2.mov)
+[▶️ Click here to view the demo video](../recordings/recording-2.mov)
+
