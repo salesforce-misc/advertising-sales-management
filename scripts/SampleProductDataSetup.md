@@ -912,6 +912,8 @@ prod.Type = 'Bundle';
             prc.ParentProductId = parent.Id;
             prc.ChildProductId = child.Id;
             prc.Quantity = 1;
+            prc.IsQuantityEditable=true;
+            prc.IsDefaultComponent=true;
             prc.ProductRelationshipTypeId = prctId;
             
             if (groupMap.containsKey(groupName)) {

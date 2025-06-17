@@ -268,9 +268,9 @@ public class GenerateTargetingSeedData {
         
         for (Map<String, Object> segmentData : segmentDataList) {
             try {
-                if (segmentData.containsKey('DependentCategorySegmentCode') && segmentData.get('DependentCategorySegmentCode') != null) {
+                if (segmentData.containsKey('DependentCategorySegmentId') && segmentData.get('DependentCategorySegmentId') != null) {
                     String newId = oldNewSegId.get((String) segmentData.get('Code'));
-                    String depId = oldNewSegId.get((String) segmentData.get('DependentCategorySegmentCode'));
+                    String depId = oldNewSegId.get((String) segmentData.get('DependentCategorySegmentId'));
                     
                     if (newId != null && depId != null) {
                         updateDependencyIdForSegment(newId, depId);
