@@ -19,7 +19,7 @@
 5. Click on deploy.
 6. Once deployment succeeds, navigate to Lookup Tables in App Launcher.
 7. Now, we can upload data to each DT via a CSV file using the Upload CSV button in the Table tab, located next to the Details tab.
-    1. Use this zip file for .csv files [Rules Framework DT CSV Data](../zip-files/Rules_Framework_DT_CSV_Data.zip)
+    1. Use this zip file for .csv files [Rules Framework DT CSV Data](../zip-files/Rules_Framework_DT_CSV_Data.zip). There are 5 sheets & each sheet name is exactly same as the corresponding developer name of deployed DT’s in step 3
 8. Post data upload is complete, click on refresh button for each DT.
 9. Now we will be able to see impact of DT rules in UI features.
 
